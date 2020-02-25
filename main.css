@@ -1,5 +1,9 @@
-div.gameHolder {
-    height: 1000px;
-    width: 1000px;
-    border: black 2px;
+
+div.season {
+    background-color: orange;
+    color: green; 
+}
+div.summer {
+    height: 100px;
+    width: 100px;
 }
